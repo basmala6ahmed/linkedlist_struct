@@ -21,6 +21,7 @@ int main()
     addperson(3);
     addperson(4);
     addperson(5);
+    addperson(6);
 
     printf("count= %d", getcount());
    //insertperson(0,1);
